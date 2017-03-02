@@ -1,4 +1,2 @@
 # repo
 hello world
-..........
-hello
